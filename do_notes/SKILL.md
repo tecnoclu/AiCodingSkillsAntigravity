@@ -5,7 +5,7 @@ description: Instructions to look for files in "To_do" folder, analyze them, cre
 
 # Do Notes Instructions
 
-This skill instructs the agent to process todo notes found in a specific folder.
+This skill instructs the agent to process todo notes found in a specific folder. These notes you can add to the "To_do" folder while on a break or when you're not working on a project. The agent will analyze them, create tasks/implementation plan, and start working whenever you are ready to get back to work.
 
 ## Workflow
 
