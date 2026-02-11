@@ -34,7 +34,7 @@ clone this repository into your local skills directory (e.g., `Documents/Apps/sk
 git clone https://github.com/tecnoclu/AiCodingSkillsAntigravity.git
 ```
 
-Then use the `skill_hub` or manually copy the folders you need into your active project's `.agent/skills/` directory.
+Then use the `skill_hub` or `Skill_creator skill` or manually copy the folders you need into your active project's `.agent/skills/` directory.
 
 ## 🤝 Contributing
 
@@ -44,4 +44,4 @@ Contributions are welcome! Please ensure any new skill follows the **Lean Consti
 *   **Safe**: Must include safety checks (e.g., "Verify Schema").
 
 ---
-*Built with ❤️ by [Tecnoclu](https://github.com/tecnoclu) for the Antigravity Community.*
+*Built with ❤️ by [Tecnoclub](https://github.com/tecnoclu) for the Antigravity Community.*
